@@ -1,1 +1,1 @@
-Implementing authentication via a Keycloak server.
+Implementing authentication via a separate Keycloak server.
