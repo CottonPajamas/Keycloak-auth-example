@@ -1,1 +1,1 @@
-"Implementing authentication via Keycloak server." 
+Implementing authentication via Keycloak server.
